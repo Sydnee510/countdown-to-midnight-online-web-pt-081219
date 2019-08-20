@@ -2,5 +2,6 @@
 
 def countdown(number)
   x = 10
-  while 
+  while x < 10
+  puts
 end
